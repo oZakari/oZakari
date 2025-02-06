@@ -1,4 +1,4 @@
-<h1 align="left">Hey there, my name is Zach :</h1>
+<h1 align="left">Hey there, my name is Zach👋</h1>
 
 <h2 align="left">I'm a Cloud Solutions Architect at Microsoft</h1>
 
