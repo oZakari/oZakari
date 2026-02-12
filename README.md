@@ -3,11 +3,15 @@
 ## About Me
 
 - Name: **Zach Trocinski**
-- Role: Microsoft — Cloud & AI Success, Platform Team
+- Role: Microsoft — Cloud & AI Success, App Modernization Team
 - Location: Austin, Texas 🇺🇸
-- Bio: Microsoft — Cloud and AI Success - Platform Team
 
 I focus on helping customers and engineering teams deploy secure, repeatable Azure Landing Zone architectures with end-to-end automation. I contribute to Azure open-source repos, build reusable IaC modules (Bicep / Terraform patterns), and Azure Landing Zones.
+
+## GitHub Stats 📊
+
+![oZakari's GitHub stats](https://github-readme-stats.vercel.app/api?username=oZakari&show_icons=true&theme=midnight-purple)
+
 
 ## Most Active Projects
 
@@ -20,23 +24,6 @@ I focus on helping customers and engineering teams deploy secure, repeatable Azu
 2) [Azure/bicep-registry-modules](https://github.com/oZakari/bicep-registry-modules)
 
 - Description: Azure Verified Modules Bicep registry modules collection 
-
-## GitHub Stats 📊
-
-- Public repositories: **36**
-- Followers: **21**
-- Following: **10**
-
-Badges / stats:
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
-Quick links:
-- Profile: https://github.com/oZakari
 
 ## Recent Activity 📝
 
