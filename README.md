@@ -1,14 +1,79 @@
-<h1 align="center">Hi 👋, I'm Zach Trocinski</h1>
-<h3 align="center">I am a Cloud Solution Architect focused in Azure</h3>
+## Hi there! 👋
 
-- 🔭 I’m currently working on [ALZ Bicep](https://github.com/Azure/alz-bicep-accelerator)
+## About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/zach trocinski" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zach trocinski" height="30" width="40" /></a>
-</p>
+- Name: **Zach Trocinski**
+- Role: Microsoft — Cloud & AI Success, Platform Team
+- Location: Austin, Texas 🇺🇸
+- Bio: Microsoft — Cloud and AI Success - Platform Team
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://gohugo.io/" target="_blank" rel="noreferrer"> <img src="https://api.iconify.design/logos-hugo.svg" alt="hugo" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.vagrantup.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/vagrantup/vagrantup-icon.svg" alt="vagrant" width="40" height="40"/> </a> </p>
+I focus on helping customers and engineering teams deploy secure, repeatable Azure Landing Zone architectures with end-to-end automation. I contribute to Azure open-source repos, build reusable IaC modules (Bicep / Terraform patterns), and author release updates and improvements to accelerator projects. When I'm not working on cloud architectures, I enjoy exploring automation tooling and improving developer experience for cloud teams.
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ozakari&show_icons=true&locale=en" alt="ozakari" /></p>
+## Skills & Technologies
+
+azure,powershell,python,git,github,githubactions,azuredevops,bash,md,vscode,visualstudio,windows,linux,
+
+## Most Active Projects
+
+1) [Azure/alz-bicep-accelerator](https://github.com/Azure/alz-bicep-accelerator) ⚙️
+
+- Description: Azure Landing Zones Bicep Accelerator — starter modules and patterns for delivering ALZ architectures.
+
+---
+
+3) [Azure/bicep-registry-modules](https://github.com/oZakari/bicep-registry-modules)
+
+- Description: Azure Verified Modules Bicep registry modules collection 
+
+## GitHub Stats 📊
+
+- Public repositories: **36**
+- Followers: **21**
+- Following: **10**
+
+Badges / stats:
+
+- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oZakari&show_icons=true&theme=default)
+- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oZakari&layout=compact&theme=default)
+
+Quick links:
+- Profile: https://github.com/oZakari
+
+## Recent Activity 📝
+
+Here are the most recent GitHub activities pulled from your account (latest first):
+
+1. Push to **oZakari/oZakari** — refs/heads/main — 2026-02-12T03:28:04Z ✅
+2. Published release **v1.0.5** on **Azure/alz-bicep-accelerator** (author) — 2026-02-11T20:16:11Z 🏷️
+3. Deleted tag `v1.0.5` on **Azure/alz-bicep-accelerator** — 2026-02-11T20:15:18Z 🧹
+4. Created branch `update-alz-empty` on **Azure/alz-bicep-accelerator** — 2026-02-11T18:10:42Z 🌿
+5. Deleted branch `update-alz-empty` on **Azure/alz-bicep-accelerator** — 2026-02-11T18:33:07Z ❌
+6. Approved a pull request review on **Azure/alz-bicep-accelerator** (PR #118) — 2026-02-11T18:34:42Z ✅
+7. Multiple pushes to **Azure/alz-bicep-accelerator** (main) — 2026-02-11T18:04:44Z & 2026-02-11T18:33:07Z 🔁
+8. Pushes and branch work across ALZ-related projects and your personal repos — ongoing contributions to ALZ modules and monitoring templates.
+
+## Latest Blog Posts ✍️
+
+[Azure Verified Modules for Platform Landing Zones - Bicep](https://techcommunity.microsoft.com/blog/azuretoolsblog/release-of-bicep-azure-verified-modules-for-platform-landing-zone/4487932)
+
+Meanwhile, notable project pages / doc sites you maintain or contribute to:
+
+- Azure Landing Zones Library: https://azure.github.io/Azure-Landing-Zones-Library/
+- Azure Proactive Resiliency Library site: https://ozakari.github.io/Azure-Proactive-Resiliency-Library/
+
+## Connect with Me 🔗
+
+- GitHub: [oZakari](https://github.com/oZakari) `@oZakari` 🧑‍💻
+- LinkedIn: [Zach Trocinski](https://www.linkedin.com/in/zach-trocinski/) 🔗
+
+Social icons (Markdown-friendly):
+
+- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oZakari)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zach-trocinski/)
+
+---
+
+Currently working on / learning:
+
+- Currently working on contributions to the **ALZ Bicep Accelerator** and **Azure Verified Modules**. 🏗️
+- Continuing to expand automation and developer experience around Azure Landing Zones and monitoring tooling. 📚
