@@ -24,18 +24,6 @@ I focus on helping customers and engineering teams deploy secure, repeatable Azu
 
 - Description: Azure Verified Modules Bicep registry modules collection 
 
-## Recent Activity 📝
-
-Here are the most recent GitHub activities pulled from your account (latest first):
-
-1. Push to **oZakari/oZakari** — refs/heads/main — 2026-02-12T03:28:04Z ✅
-2. Published release **v1.0.5** on **Azure/alz-bicep-accelerator** (author) — 2026-02-11T20:16:11Z 🏷️
-3. Deleted tag `v1.0.5` on **Azure/alz-bicep-accelerator** — 2026-02-11T20:15:18Z 🧹
-4. Created branch `update-alz-empty` on **Azure/alz-bicep-accelerator** — 2026-02-11T18:10:42Z 🌿
-5. Deleted branch `update-alz-empty` on **Azure/alz-bicep-accelerator** — 2026-02-11T18:33:07Z ❌
-6. Approved a pull request review on **Azure/alz-bicep-accelerator** (PR #118) — 2026-02-11T18:34:42Z ✅
-7. Multiple pushes to **Azure/alz-bicep-accelerator** (main) — 2026-02-11T18:04:44Z & 2026-02-11T18:33:07Z 🔁
-8. Pushes and branch work across ALZ-related projects and your personal repos — ongoing contributions to ALZ modules and monitoring templates.
 
 ## Latest Blog Posts ✍️
 
@@ -57,8 +45,3 @@ Social icons (Markdown-friendly):
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zach-trocinski/)
 
 ---
-
-Currently working on / learning:
-
-- Currently working on contributions to the **ALZ Bicep Accelerator** and **Azure Verified Modules**. 🏗️
-- Continuing to expand automation and developer experience around Azure Landing Zones and monitoring tooling. 📚
