@@ -10,8 +10,7 @@ I focus on helping customers and engineering teams deploy secure, repeatable Azu
 
 ## GitHub Stats 📊
 
-![oZakari's GitHub stats](https://github-readme-stats.vercel.app/api?username=oZakari&show_icons=true&theme=midnight-purple)
-
+![oZakari's GitHub stats](https://github-readme-stats.vercel.app/api?username=oZakari&show_icons=true&rank_icon=github&theme=midnight-purple&cache_seconds=1800)
 
 ## Most Active Projects
 
