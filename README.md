@@ -9,10 +9,6 @@
 
 I focus on helping customers and engineering teams deploy secure, repeatable Azure Landing Zone architectures with end-to-end automation. I contribute to Azure open-source repos, build reusable IaC modules (Bicep / Terraform patterns), and Azure Landing Zones.
 
-## Skills & Technologies
-
-azure,powershell,python,git,github,githubactions,azuredevops,bash,md,vscode,visualstudio,windows,linux,
-
 ## Most Active Projects
 
 1) [Azure/alz-bicep-accelerator](https://github.com/Azure/alz-bicep-accelerator) ⚙️
@@ -21,7 +17,7 @@ azure,powershell,python,git,github,githubactions,azuredevops,bash,md,vscode,visu
 
 ---
 
-3) [Azure/bicep-registry-modules](https://github.com/oZakari/bicep-registry-modules)
+2) [Azure/bicep-registry-modules](https://github.com/oZakari/bicep-registry-modules)
 
 - Description: Azure Verified Modules Bicep registry modules collection 
 
@@ -33,8 +29,11 @@ azure,powershell,python,git,github,githubactions,azuredevops,bash,md,vscode,visu
 
 Badges / stats:
 
-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=oZakari&show_icons=true&theme=default)
-- ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oZakari&layout=compact&theme=default)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg" />
+</picture>
 
 Quick links:
 - Profile: https://github.com/oZakari
