@@ -7,7 +7,7 @@
 - Location: Austin, Texas 🇺🇸
 - Bio: Microsoft — Cloud and AI Success - Platform Team
 
-I focus on helping customers and engineering teams deploy secure, repeatable Azure Landing Zone architectures with end-to-end automation. I contribute to Azure open-source repos, build reusable IaC modules (Bicep / Terraform patterns), and author release updates and improvements to accelerator projects. When I'm not working on cloud architectures, I enjoy exploring automation tooling and improving developer experience for cloud teams.
+I focus on helping customers and engineering teams deploy secure, repeatable Azure Landing Zone architectures with end-to-end automation. I contribute to Azure open-source repos, build reusable IaC modules (Bicep / Terraform patterns), and Azure Landing Zones.
 
 ## Skills & Technologies
 
