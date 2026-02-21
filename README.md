@@ -1,47 +1,78 @@
-## Hi there! 👋
+# Hi there! 👋
 
 ## About Me
 
-- Name: **Zach Trocinski**
-- Role: Microsoft — Cloud & AI Success, App Modernization Team
-- Location: Austin, Texas 🇺🇸
+**Zach Trocinski**  
+Microsoft — Cloud & AI Success | App Modernization  
+Austin, Texas 🇺🇸  
 
-I focus on helping customers and engineering teams deploy secure, repeatable Azure Landing Zone architectures with end-to-end automation. I contribute to Azure open-source repos, build reusable IaC modules (Bicep / Terraform patterns), and Azure Landing Zones.
+I help enterprises design and deploy **secure, scalable Azure Landing Zone architectures** with end-to-end automation.
 
-## GitHub Stats 📊
+I focus on:
 
-![oZakari's GitHub stats](https://github-readme-stats.vercel.app/api?username=oZakari&show_icons=true&rank_icon=github&theme=midnight-purple&cache_seconds=1800)
+- SRE and Platform engineering
+- Azure Landing Zones (ALZ)
+- Bicep & Infrastructure as Code patterns
+- Azure Verified Modules (AVM)
+- SRE and Platform engineering
 
-## Most Active Projects
-
-1) [Azure/alz-bicep-accelerator](https://github.com/Azure/alz-bicep-accelerator) ⚙️
-
-- Description: Azure Landing Zones Bicep Accelerator — starter modules and patterns for delivering ALZ architectures.
+I actively contribute to Azure open-source repositories and collaborate closely with engineering teams to turn real-world customer feedback into product improvements.
 
 ---
 
-2) [Azure/bicep-registry-modules](https://github.com/oZakari/bicep-registry-modules)
+## 🔥 Featured Projects
 
-- Description: Azure Verified Modules Bicep registry modules collection 
+### ⚙️ Azure Landing Zones — Azure Verified Modules for Platform Landing Zones (ALZ)
+https://github.com/Azure/alz-bicep-accelerator  
 
+Starter modules and patterns to accelerate ALZ deployments using Bicep.
 
-## Latest Blog Posts ✍️
+---
 
-[Azure Verified Modules for Platform Landing Zones - Bicep](https://techcommunity.microsoft.com/blog/azuretoolsblog/release-of-bicep-azure-verified-modules-for-platform-landing-zone/4487932)
+### 📦 Azure Verified Modules — Bicep Registry  
+https://github.com/oZakari/bicep-registry-modules  
 
-Meanwhile, notable project pages / doc sites you maintain or contribute to:
+Reusable, production-grade Azure Verified Modules for platform and landing zone scenarios.
 
-- Azure Landing Zones Library: https://azure.github.io/Azure-Landing-Zones-Library/
-- Azure Proactive Resiliency Library site: https://ozakari.github.io/Azure-Proactive-Resiliency-Library/
+---
 
-## Connect with Me 🔗
+### 🛡️ Azure Proactive Resiliency Library (APRl) v2  
+https://ozakari.github.io/Azure-Proactive-Resiliency-Library-v2/  
 
-- GitHub: [oZakari](https://github.com/oZakari) `@oZakari` 🧑‍💻
-- LinkedIn: [Zach Trocinski](https://www.linkedin.com/in/zach-trocinski/) 🔗
+A resiliency-focused reference and automation library designed to help organizations assess Azure workload resilience using ARG Queries.
 
-Social icons (Markdown-friendly):
+---
 
-- [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oZakari)
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zach-trocinski/)
+## 📊 GitHub Stats
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=oZakari&theme=midnight-purple)
+
+![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oZakari&theme=github_dark)
+
+![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=oZakari&theme=github_dark)
+
+---
+
+## ✍️ Writing
+
+**Azure Verified Modules for Platform Landing Zones — Bicep**  
+https://techcommunity.microsoft.com/blog/azuretoolsblog/release-of-bicep-azure-verified-modules-for-platform-landing-zone/4487932
+
+---
+
+## 📚 Documentation & Project Sites
+
+- Azure Landing Zones Library  
+  https://azure.github.io/Azure-Landing-Zones-Library/
+
+- Azure Proactive Resiliency Library  
+  https://github.com/Azure/Azure-Proactive-Resiliency-Library-v2
+
+---
+
+## 🤝 Connect With Me
+
+- GitHub: https://github.com/oZakari  
+- LinkedIn: https://www.linkedin.com/in/zach-trocinski/
 
 ---
