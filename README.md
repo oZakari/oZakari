@@ -30,14 +30,14 @@ Starter modules and patterns to accelerate ALZ deployments using Bicep.
 ---
 
 ### 📦 Azure Verified Modules — Bicep Registry  
-https://github.com/oZakari/bicep-registry-modules  
+https://github.com/Azure/bicep-registry-modules  
 
 Reusable, production-grade Azure Verified Modules for platform and landing zone scenarios.
 
 ---
 
 ### 🛡️ Azure Proactive Resiliency Library (APRl) v2  
-https://ozakari.github.io/Azure-Proactive-Resiliency-Library-v2/  
+https://azure.github.io/Azure-Proactive-Resiliency-Library-v2/welcome/
 
 A resiliency-focused reference and automation library designed to help organizations assess Azure workload resilience using ARG Queries.
 
