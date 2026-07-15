@@ -14,7 +14,6 @@ I focus on:
 - Azure Landing Zones (ALZ)
 - Bicep & Infrastructure as Code patterns
 - Azure Verified Modules (AVM)
-- SRE and Platform engineering
 
 I actively contribute to Azure open-source repositories and collaborate closely with engineering teams to turn real-world customer feedback into product improvements.
 
