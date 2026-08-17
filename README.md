@@ -3,7 +3,6 @@
 ## About Me
 
 **Zach Trocinski**  
-Microsoft — Cloud & AI Success | App Modernization  
 Austin, Texas 🇺🇸  
 
 I help enterprises design and deploy **secure, scalable Azure Landing Zone architectures** with end-to-end automation.
